@@ -8,4 +8,6 @@ tags: [github, frontend]     # TAG names should always be lowercase
 # Using Jekyll to build a personal website
 
 why cannot build and deploy??
-let's see this time
+let's see this time,still failed
+
+remember to go to the Settings -> Pages -> Build and deployment -> choose source `GitHub Actions`
