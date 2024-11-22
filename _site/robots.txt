@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://fruitfulthoughts.github.io/sitemap.xml
